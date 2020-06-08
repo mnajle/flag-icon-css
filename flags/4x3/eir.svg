@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="eir.svg"
+   id="svg11"
+   version="1.1"
+   viewBox="0 0 3.995145 2.9951453"
+   height="599.02905"
+   width="799.02899">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg11"
+     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:cy="299.51453"
+     inkscape:cx="308.81262"
+     inkscape:zoom="1.097"
+     showgrid="false"
+     id="namedview13"
+     inkscape:window-height="1031"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="a">
+      <rect
+         y="0"
+         x="0"
+         id="rect2"
+         height="3"
+         width="5" />
+    </clipPath>
+    <clipPath
+       id="clipPath23"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="0.0024273705"
+         x="0.50242734"
+         height="2.9951453"
+         width="3.9951448"
+         id="rect25"
+         style="display:inline;opacity:0.489158;fill:#ffcc00;stroke:#d4aa00;stroke-width:0.00485474" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(-0.50242734,-0.00242737)"
+     clip-path="url(#clipPath23)"
+     id="g21">
+    <rect
+       width="5"
+       height="3"
+       fill="#ffffff"
+       id="rect7"
+       x="0"
+       y="0" />
+    <path
+       d="M 0,0 5,3 M 0,3 5,0"
+       stroke="#c60c30"
+       stroke-width="0.6"
+       clip-path="url(#a)"
+       id="path9" />
+  </g>
+</svg>

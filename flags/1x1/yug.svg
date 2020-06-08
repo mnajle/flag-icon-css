@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="yug.svg"
+   id="svg10"
+   height="299.0278"
+   width="299.0278"
+   version="1.1">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14">
+    <clipPath
+       id="clipPath26"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="0.48609716"
+         x="150.4861"
+         height="299.0278"
+         width="299.0278"
+         id="rect28"
+         style="fill:#ffcc00;stroke:#d4aa00;stroke-width:0.972194" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="svg10"
+     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:cy="149.5139"
+     inkscape:cx="149.5139"
+     inkscape:zoom="1.8283333"
+     showgrid="false"
+     id="namedview12"
+     inkscape:window-height="1031"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="translate(-150.4861,-0.48609716)"
+     clip-path="url(#clipPath26)"
+     id="g22">
+    <rect
+       width="600"
+       height="300"
+       x="0"
+       y="0"
+       style="fill:#003893"
+       id="rect2" />
+    <rect
+       width="600"
+       height="200"
+       x="0"
+       y="100"
+       style="fill:#ffffff"
+       id="rect4" />
+    <rect
+       width="600"
+       height="100"
+       x="0"
+       y="200"
+       style="fill:#de0000"
+       id="rect6" />
+    <path
+       d="m 300,60 -21,64 h -67 l 55,40 -21,64 55,-39 55,39 -21,-64 55,-40 h -67 z"
+       style="fill:#de0000;stroke:#fcd115;stroke-width:6"
+       id="path8" />
+  </g>
+</svg>
